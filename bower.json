@@ -1,0 +1,19 @@
+{
+  "name": "week11",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Emdaisy1 <hilborn_emmav@live.ca>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ]
+}
